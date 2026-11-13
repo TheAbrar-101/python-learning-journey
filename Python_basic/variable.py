@@ -23,3 +23,14 @@ print("x =", x)
 print("y =", y)
 print("z =", z)
 print("*&*" * 10)
+
+# Multilevel variable name
+
+# camalCase
+myVariableName = "Shahrear"
+
+# snake_case
+my_variable_name = "Abrar"
+
+# PascalCase
+MyVariableName = "Maisha"

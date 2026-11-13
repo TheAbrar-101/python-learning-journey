@@ -34,3 +34,17 @@ my_variable_name = "Abrar"
 
 # PascalCase
 MyVariableName = "Maisha"
+
+
+# Global variable example
+x = "easy sometimes"
+
+
+def myfunc():
+    x = "techincal sometimes"
+    print("Python is " + x)  # Output: Python is technical sometimes
+
+
+myfunc()
+
+print("Python is " + x)  # Output: Python is easy sometimes

@@ -17,6 +17,7 @@ print(type(is_student))
 age = 21
 print("\nUpdated Age:", age)
 x, y, z = 10, 20, 30
+
 print("\nMultiple Assignment:")
 print("x =", x)
 print("y =", y)
